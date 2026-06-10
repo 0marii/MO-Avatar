@@ -1,0 +1,13 @@
+{
+  "name": "mo-avatar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-based animated avatar generator — customize themes, glow, borders, and effects, then export PNG, SVG, GIF, or WebP.",
+  "author": "Mohammad Al Omari <mo.omari862@gmail.com> (https://github.com/0marii)",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "preview": "npm run start"
+  },
+  "keywords": ["avatar", "canvas", "gif", "profile-picture", "developer-tools", "web-app"],
+  "license": "MIT"
+}

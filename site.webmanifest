@@ -1,0 +1,17 @@
+{
+  "name": "MO Avatar Generator",
+  "short_name": "MO Avatar",
+  "description": "Create animated developer profile avatars. Export PNG, SVG, GIF, and WebP.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
