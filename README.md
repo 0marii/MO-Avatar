@@ -1,7 +1,7 @@
 # MO Avatar
 
 **Owner:** [Mohammad Al Omari](https://github.com/0marii)
-
+**Live Demo**[Mo Avatar](https://mo-avatar.vercel.app/)
 A browser-based animated avatar generator. Customize text, glow, border effects, and modern color themes on a circular canvas, then export as PNG, SVG, GIF, or WebP.
 
 ## Features
