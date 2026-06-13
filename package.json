@@ -8,6 +8,16 @@
     "start": "npx --yes serve . -l 3000",
     "preview": "npm run start"
   },
-  "keywords": ["avatar", "canvas", "gif", "profile-picture", "developer-tools", "web-app"],
-  "license": "MIT"
+  "keywords": [
+    "avatar",
+    "canvas",
+    "gif",
+    "profile-picture",
+    "developer-tools",
+    "web-app"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
 }
